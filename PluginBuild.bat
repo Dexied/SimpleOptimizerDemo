@@ -1,1 +1,1 @@
-B:\UnrealEngine\UE_5.6\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\SimpleOptimizerDemo\Plugins\SimpleOptimizer\SimpleOptimizer.uplugin" -Package="B:\Projects\SimpleOptimizerDemo\Builds\SimpleOptimizer" -Rocket -2019
+B:\UnrealEngineSource\UnrealEngine\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\SimpleOptimizerDemo\Plugins\SimpleOptimizer\SimpleOptimizer.uplugin" -Package="B:\Projects\SimpleOptimizerDemo\Builds\SimpleOptimizer" -Rocket -2019
